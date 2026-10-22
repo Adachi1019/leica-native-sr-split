@@ -1,0 +1,63 @@
+{
+  "owner_version_code": 266,
+  "owner_runtime_manifest_sha256": "22daf2f33c58775815a4614e2b195aa9bf3bcc6c085eb4e23b7cb189a05a8056",
+  "automatic_selection": "unique original core fingerprint plus this device original JSON hash",
+  "profiles": [
+    {
+      "profile": "myron-os4040",
+      "core_sha256": "85ffbc63c91b33121818f4fa9295ec02d503242f3608808248700257efd8398d",
+      "stock_json_sha256": "4adc6f94a4efc12876ad30dd8edd08a94db690cde5ef04f929d3db20bdf03b3f",
+      "native_script_sha256": "03a06510f93696d84fbcd096bb08491d9082a30b86c9009e8b08f55ba6ed673c",
+      "status": "candidate; runtime guards required; device validation pending"
+    },
+    {
+      "profile": "pandora",
+      "core_sha256": "07578081d35ae6e038e2accf85f52cb6eac788a2c1b188791db28b64a9f64f0a",
+      "stock_json_sha256": "6d87902393451786a14e99860c90b1b420845fabb8750c38d4b0d3a4fcae712a",
+      "native_script_sha256": "a07fdcf1281d2f3d1a5748b00445e748891a7b27130e253b82cec02387a61296",
+      "status": "candidate; runtime guards required; device validation pending"
+    },
+    {
+      "profile": "pandora-os4020",
+      "core_sha256": "8801045d95b738b427c70789a3e6c08b0a1608a49655c39e8785dd0005acddc2",
+      "stock_json_sha256": "6d87902393451786a14e99860c90b1b420845fabb8750c38d4b0d3a4fcae712a",
+      "native_script_sha256": "79b2fc9c55d841eddac57433c037b853cd265aa33cbd3717feeee9b376360389",
+      "status": "candidate; runtime guards required; device validation pending"
+    },
+    {
+      "profile": "popsicle",
+      "core_sha256": "be4bdd94740895ccedcfba56ca6708935017c10d0022a9456cf65742512e8a6a",
+      "stock_json_sha256": "fe0bb259ad1a95c3d3d9e263403e649afa40c7068c3696dd514da79f9702e54e",
+      "native_script_sha256": "7ce9d8cfa32aea07f23cf83c1fa9ad77f6c9421f3bd0b662abd8802271f7c85c",
+      "status": "candidate; runtime guards required; device validation pending"
+    },
+    {
+      "profile": "popsicle-os4020",
+      "core_sha256": "7f8cfccd86f76784218c5c82f41af21f34bfbdf5978e12c223499d82f2ff4c9e",
+      "stock_json_sha256": "fe0bb259ad1a95c3d3d9e263403e649afa40c7068c3696dd514da79f9702e54e",
+      "native_script_sha256": "a7e7c28fce5b8eb912c890c671413e45466cce084262584b4acecd77aafcc6d9",
+      "status": "candidate; runtime guards required; device validation pending"
+    },
+    {
+      "profile": "pudding",
+      "core_sha256": "6e23f0b0cb89bcdae0042fcd33351d971195157d1ea32f2d763ee50b5832c65f",
+      "stock_json_sha256": "83c71a017c90e9dcadc717ac4214f7ef7d885b59a90f71fbb030af171b139a53",
+      "native_script_sha256": "dd693b42f8c3e3482fdede4e87df1df18b5c2c8f143bcd2fb05cad359a95198a",
+      "status": "candidate; runtime guards required; device validation pending"
+    },
+    {
+      "profile": "pudding-os4020",
+      "core_sha256": "fe5b36c328f61e60dc85c0a258dcfbb933d7f5633e1fab941a0e9d6efa9c8b34",
+      "stock_json_sha256": "83c71a017c90e9dcadc717ac4214f7ef7d885b59a90f71fbb030af171b139a53",
+      "native_script_sha256": "74816b442e993bf15e47dac3bbcde09e72db2ced336d57507a6376de90d38819",
+      "status": "candidate; runtime guards required; device validation pending"
+    },
+    {
+      "profile": "pudding-os4040",
+      "core_sha256": "f572f77efbe2c912b8b2c5541c47aa013d6cf9befa76a58793caa1b49dc1faf6",
+      "stock_json_sha256": "83c71a017c90e9dcadc717ac4214f7ef7d885b59a90f71fbb030af171b139a53",
+      "native_script_sha256": "e490c18218abb3b7187b6a9ac50ae12e810a9df345b6b9f527ebd88c2644e08a",
+      "status": "candidate; runtime guards required; device validation pending"
+    }
+  ]
+}

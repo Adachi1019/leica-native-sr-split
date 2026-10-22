@@ -1,0 +1,17 @@
+{
+  "repository": "https://github.com/lenowo/m17-camera-port",
+  "commit_observed": "9389fe9",
+  "scope": "latest 0.266 runtime, all eight bundled ABI profiles",
+  "repo_snapshot": "work/release266-source",
+  "browser_source_hashes_verified": {
+    "P.java": "aa74521b76100595a141ccf965be2fb1f7162e57c0ccfbedb218a3ef94bbbaa1",
+    "NativeControls.java": "389dd89fee852b6b87d0b17ef8e6c1b9763cd6f968ead999b9fbae545b4c4301"
+  },
+  "runtime_snapshot": "0.266 runtime controls and profile manifests read from connected phone 2026-10-22; repository release266-source includes app source only",
+  "runtime_manifest_sha256": "22daf2f33c58775815a4614e2b195aa9bf3bcc6c085eb4e23b7cb189a05a8056",
+  "upstream_changes": "Original reference repository unchanged; this independent repository publishes the companion only",
+  "private_sdk_sha256": "f323c95e7ddcf420a27b6ddb13b2651f64176498f0c88990013103f5c82676e4",
+  "private_harbo_sha256": "68be9d011405c4bf442838c8938a3c31232dc5df29bc37a2b169f3cfd802c93d",
+  "runtime_files_verified_before": 186,
+  "public_distribution": "Independent module source, tests and structural validation only; no upstream app source or vendor payloads"
+}

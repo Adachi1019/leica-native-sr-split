@@ -1,0 +1,6 @@
+id=leica_ordinary_sr_fix
+name=Leica 0.266 native SR configuration split
+version=1.2.0-candidate
+versionCode=4
+author=Local repair
+description=Leica 0.266 only: capture this device's verified native SR JSON and isolate the private P1 config. Eight ABI profile candidates; additional device validation required.

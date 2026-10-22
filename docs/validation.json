@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-22",
+  "patch_version": "1.2.0-candidate",
+  "device": "Xiaomi 17 Pro / pandora",
+  "firmware": "OS4.0.4.0.XBLCNXM",
+  "owner_version": "0.266",
+  "selected_profile": "pandora-os4020",
+  "installation": "KernelSU normal update, reboot, manual unlock; automatic application verified",
+  "original_runtime_files_verified_before_and_after": 186,
+  "stock_json": "verified original; read-only bind visible in provider namespace",
+  "private_sdk": "exact disk hashes verified; in-memory config path relocated and read back",
+  "captures": [
+    {
+      "mode": "ordinary",
+      "zoom": 1,
+      "branch": "aisp_hdr",
+      "frames": 8,
+      "bypass": 0,
+      "process_return": 0,
+      "final_callback": true,
+      "save_finished": true
+    },
+    {
+      "mode": "ordinary",
+      "zoom": 10,
+      "branch": "aisp_sr",
+      "frames": 8,
+      "bypass": 0,
+      "process_return": 0,
+      "harbo_version": "2.1.2",
+      "harbo_init_error": 0,
+      "harbo_process_error": 0,
+      "final_callback": true,
+      "save_finished": true
+    },
+    {
+      "mode": "Leica Moment",
+      "zoom": 10,
+      "original_legend_m9_events_observed": true,
+      "final_callback": true,
+      "save_finished": true,
+      "user_visual_confirmation": "normal final processed image",
+      "observed_final_save_seconds_approximately": 31
+    }
+  ],
+  "first_install_private_directory": "tested on Android using temporary isolated directory; permissions and SELinux checked; temporary path removed",
+  "detailed_log_property": "restored to previous empty value",
+  "other_profiles": "seven candidate profiles, not hardware tested",
+  "host_checks": [
+    "Java memory/string guard self-tests",
+    "shell syntax",
+    "eight synthetic profile selections",
+    "wrong version rejection",
+    "runtime and profile tamper rejection",
+    "unknown and ambiguous core rejection",
+    "mount ownership checks",
+    "fresh private directory and foreign JSON rejection"
+  ],
+  "actual_profile_metadata_verified": true,
+  "published_flash_zip_sha256": "b5ffa7be32fbe3a48e548702a08ab68f915cbd6094446a947a67094f2a77470f"
+}
